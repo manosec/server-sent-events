@@ -4,7 +4,7 @@ A simple demonstration of server-sent-events, an HTTP channel for server to push
 This app sent the random couple of numbers as data to the react frontend.
 
 ### Fact:
-OpenAI APIs uses server-sent-events to stream the model response in a streaming fashion.
+OpenAI APIs uses server-sent-events to output the model response in a streaming fashion.
 
 # Reference
 https://medium.com/@imanshurathore/server-sent-events-in-react-30021f9ffc4a
